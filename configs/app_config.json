@@ -1,0 +1,7 @@
+{
+  "device_id": "intercom-sim-001",
+  "log_level": "info",
+  "sip_port": 5060,
+  "http_port": 8080,
+  "ws_port": 8081
+}
